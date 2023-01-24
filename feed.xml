@@ -4,7 +4,7 @@
   <id>/</id>
   <title>Amanda M</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2023-01-24T10:13:57-05:00</updated>
+  <updated>2023-01-24T11:31:11-05:00</updated>
   <author>
     <name>Amanda Mullins</name>
     <uri>/</uri>
@@ -20,14 +20,14 @@
 
   
   <entry>
-    <title>Mixing Gray Tones</title>
-    <link href="/posts/idk/" rel="alternate" type="text/html" title="Mixing Gray Tones" />
-    <published>2023-01-19T09:14:56-05:00</published>
+    <title>Paint Pixels, and Pixie Sticks</title>
+    <link href="/posts/Paint-Pixels,-and-Pixie-Sticks/" rel="alternate" type="text/html" title="Paint Pixels, and Pixie Sticks" />
+    <published>2023-02-02T10:10:29-05:00</published>
   
-    <updated>2023-01-19T09:14:56-05:00</updated>
+    <updated>2023-02-02T10:10:29-05:00</updated>
   
-    <id>/posts/idk/</id>
-    <content src="/posts/idk/" />
+    <id>/posts/Paint-Pixels,-and-Pixie-Sticks/</id>
+    <content src="/posts/Paint-Pixels,-and-Pixie-Sticks/" />
     <author>
       <name>0</name>
     </author>
@@ -46,7 +46,90 @@
 
 
 
+      Overview:
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Albers Color Studies</title>
+    <link href="/posts/Albers-Color-Studies/" rel="alternate" type="text/html" title="Albers Color Studies" />
+    <published>2023-01-26T08:39:25-05:00</published>
+  
+    <updated>2023-01-26T08:39:25-05:00</updated>
+  
+    <id>/posts/Albers-Color-Studies/</id>
+    <content src="/posts/Albers-Color-Studies/" />
+    <author>
+      <name>0</name>
+    </author>
+
+  
+    
+    <category term="DSGN101" />
+    
+  
+
+  
+    <summary>
       
+
+
+
+
+
+      Overview:
+In this assigment the idea is to create different paper works based on Josef Albers Interaction of Colorwith to improve your perception of color.
+
+Progress:
+Choosing colors and cutting out parts of the color-aid paper. This image also shows possible layouts I was testing to before I finally glue the paper down
+
+
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Mixing Gray Tones</title>
+    <link href="/posts/Mixing-Gray-Tones/" rel="alternate" type="text/html" title="Mixing Gray Tones" />
+    <published>2023-01-19T09:14:56-05:00</published>
+  
+    <updated>2023-01-19T09:14:56-05:00</updated>
+  
+    <id>/posts/Mixing-Gray-Tones/</id>
+    <content src="/posts/Mixing-Gray-Tones/" />
+    <author>
+      <name>0</name>
+    </author>
+
+  
+    
+    <category term="DSGN101" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Overview:
+In this assigment we mixed paint to create different gray tones
+
+Final Image:
+
+
+Artist Statement:
+Mixing the three different shades of gray turned out to be easier than I expected, I did struggle slightly creating a warmer toned gray but I belive that my results ended looked nice.
 
     </summary>
   
@@ -81,7 +164,17 @@
 
 
 
-      
+      Overview:
+In this exercise we mixed 15 different paint colors with each other, and use the resulting color in a grid to create a “chart” of colors.
+
+Progess:
+Approximately half way through the exercise, when starting the 11th color
+
+
+Final Image:
+
+
+Artist Statement:
 
     </summary>
   
@@ -99,7 +192,7 @@
     <id>/posts/App-Exploration/</id>
     <content src="/posts/App-Exploration/" />
     <author>
-      <name>0</name>
+      <name>Amanda Mullins</name>
     </author>
 
   
@@ -116,10 +209,14 @@
 
 
 
-      You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.
+      Overview:
+In this assigment we were required to take a picture using a specific app based around an artists work.
 
-Jekyll requires blog post files to be named according to the following format:
+Final Image:
 
+
+Artist Statement:
+I like how the photograph of bubbles turned out, the way the colors of the bubbles match the background creates a nice harmony in the image. It was an intentional composition choice and I think it makes the bubbles stand out more. It was interesting...
     </summary>
   
 
