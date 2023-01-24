@@ -1,4 +1,55 @@
 [
   
+  {
+    "title": "Mixing Gray Tones",
+    "url": "/posts/idk/",
+    "categories": "DSGN101",
+    "tags": "Journal-Only",
+    "date": "2023-01-19 09:14:56 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "Paint Color Chart",
+    "url": "/posts/Paint-Color-Chart/",
+    "categories": "DSGN101",
+    "tags": "Exercise",
+    "date": "2023-01-16 09:43:56 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "",
+    "content": ""
+  },
+  
+  {
+    "title": "App Exploration",
+    "url": "/posts/App-Exploration/",
+    "categories": "DSGN101",
+    "tags": "Journal-Only",
+    "date": "2023-01-10 09:43:56 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run je...",
+    "content": "You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.Jekyll requires blog post files to be named according to the following format:"
+  }
+  
 ]
 

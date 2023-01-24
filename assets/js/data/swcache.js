@@ -11,11 +11,7 @@ const resource = [
     '/404.html',
 
     
-        '/categories/',
-    
         '/tags/',
-    
-        '/archives/',
     
         '/about/',
     
@@ -43,7 +39,7 @@ const resource = [
 const allowedDomains = [
     
 
-    'localhost:4000',
+    '',
 
     
 
