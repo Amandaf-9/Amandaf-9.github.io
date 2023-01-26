@@ -13,8 +13,6 @@ const resource = [
     
         '/archives/',
     
-        '/about/',
-    
 
     /* --- Favicons & compressed JS --- */
     

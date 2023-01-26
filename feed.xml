@@ -4,7 +4,7 @@
   <id>/</id>
   <title>Amanda M</title>
   <subtitle></subtitle>
-  <updated>2023-01-25T17:16:21-05:00</updated>
+  <updated>2023-01-26T10:14:03-05:00</updated>
   <author>
     <name>Amanda Mullins</name>
     <uri>/</uri>
@@ -20,6 +20,43 @@
 
   
   <entry>
+    <title>Research Presentation</title>
+    <link href="/posts/Research-Presentation/" rel="alternate" type="text/html" title="Research Presentation" />
+    <published>2023-02-23T08:30:29-05:00</published>
+  
+    <updated>2023-02-23T08:30:29-05:00</updated>
+  
+    <id>/posts/Research-Presentation/</id>
+    <content src="/posts/Research-Presentation/" />
+    <author>
+      <name>amanda</name>
+    </author>
+
+  
+    
+    <category term="DSGN101" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  This page is currently under construction and serves as a placeholder until content is added.
+
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
     <title>Paint Pixels, and Pixie Sticks</title>
     <link href="/posts/Paint-Pixels,-and-Pixie-Sticks/" rel="alternate" type="text/html" title="Paint Pixels, and Pixie Sticks" />
     <published>2023-02-02T10:10:29-05:00</published>
@@ -29,7 +66,7 @@
     <id>/posts/Paint-Pixels,-and-Pixie-Sticks/</id>
     <content src="/posts/Paint-Pixels,-and-Pixie-Sticks/" />
     <author>
-      <name>0</name>
+      <name>amanda</name>
     </author>
 
   
@@ -64,7 +101,7 @@ In this assignmentwe had to choose a painting made before 1850 with a wide range
     <id>/posts/Albers-Color-Studies/</id>
     <content src="/posts/Albers-Color-Studies/" />
     <author>
-      <name>0</name>
+      <name>amanda</name>
     </author>
 
   
@@ -112,7 +149,7 @@ Image showing all four parts of the assigment
     <id>/posts/Mixing-Gray-Tones/</id>
     <content src="/posts/Mixing-Gray-Tones/" />
     <author>
-      <name>0</name>
+      <name>amanda</name>
     </author>
 
   
@@ -154,7 +191,7 @@ Mixing the three different shades of gray turned out to be easier than I expecte
     <id>/posts/Paint-Color-Chart/</id>
     <content src="/posts/Paint-Color-Chart/" />
     <author>
-      <name>0</name>
+      <name>amanda</name>
     </author>
 
   
@@ -183,47 +220,6 @@ Final Image:
 
 Artist Statement:
 For this assigment I started at the top of the chart mixing colors and went down 1 row at a time. Keeping a constant pattern made ...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>App Exploration</title>
-    <link href="/posts/App-Exploration/" rel="alternate" type="text/html" title="App Exploration" />
-    <published>2023-01-10T09:43:56-05:00</published>
-  
-    <updated>2023-01-10T09:43:56-05:00</updated>
-  
-    <id>/posts/App-Exploration/</id>
-    <content src="/posts/App-Exploration/" />
-    <author>
-      <name>Amanda Mullins</name>
-    </author>
-
-  
-    
-    <category term="DSGN101" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Overview:
-In this assigment we were required to take a picture using a specific app based around an artists work.
-
-Final Image:
-
-
-Artist Statement:
-I like how the photograph of bubbles turned out, the way the colors of the bubbles match the background creates a nice harmony in the image. It was an intentional composition choice and I think it makes the bubbles stand out more. It was interesting...
     </summary>
   
 
