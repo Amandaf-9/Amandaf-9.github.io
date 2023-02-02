@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:4000/</id>
+  <id>/</id>
   <title>Amanda M</title>
   <subtitle></subtitle>
-  <updated>2023-01-29T18:59:45-05:00</updated>
+  <updated>2023-02-02T08:14:32-05:00</updated>
   <author>
     <name>Amanda Mullins</name>
-    <uri>http://localhost:4000/</uri>
+    <uri>/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="http://localhost:4000/"/>
+    href="/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator>
   <rights> © 2023 Amanda Mullins </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -21,13 +21,13 @@
   
   <entry>
     <title>Research Presentation</title>
-    <link href="http://localhost:4000/posts/Research-Presentation/" rel="alternate" type="text/html" title="Research Presentation" />
+    <link href="/posts/Research-Presentation/" rel="alternate" type="text/html" title="Research Presentation" />
     <published>2023-02-23T08:30:29-05:00</published>
   
     <updated>2023-02-23T08:30:29-05:00</updated>
   
-    <id>http://localhost:4000/posts/Research-Presentation/</id>
-    <content src="http://localhost:4000/posts/Research-Presentation/" />
+    <id>/posts/Research-Presentation/</id>
+    <content src="/posts/Research-Presentation/" />
     <author>
       <name>amanda</name>
     </author>
@@ -58,13 +58,13 @@
   
   <entry>
     <title>Paint Pixels, and Pixie Sticks</title>
-    <link href="http://localhost:4000/posts/Paint-Pixels,-and-Pixie-Sticks/" rel="alternate" type="text/html" title="Paint Pixels, and Pixie Sticks" />
+    <link href="/posts/Paint-Pixels,-and-Pixie-Sticks/" rel="alternate" type="text/html" title="Paint Pixels, and Pixie Sticks" />
     <published>2023-02-02T10:10:29-05:00</published>
   
     <updated>2023-02-02T10:10:29-05:00</updated>
   
-    <id>http://localhost:4000/posts/Paint-Pixels,-and-Pixie-Sticks/</id>
-    <content src="http://localhost:4000/posts/Paint-Pixels,-and-Pixie-Sticks/" />
+    <id>/posts/Paint-Pixels,-and-Pixie-Sticks/</id>
+    <content src="/posts/Paint-Pixels,-and-Pixie-Sticks/" />
     <author>
       <name>amanda</name>
     </author>
@@ -93,13 +93,13 @@ In this assignmentwe had to choose a painting made before 1850 with a wide range
   
   <entry>
     <title>Albers Color Studies</title>
-    <link href="http://localhost:4000/posts/Albers-Color-Studies/" rel="alternate" type="text/html" title="Albers Color Studies" />
+    <link href="/posts/Albers-Color-Studies/" rel="alternate" type="text/html" title="Albers Color Studies" />
     <published>2023-01-26T08:39:25-05:00</published>
   
     <updated>2023-01-26T08:39:25-05:00</updated>
   
-    <id>http://localhost:4000/posts/Albers-Color-Studies/</id>
-    <content src="http://localhost:4000/posts/Albers-Color-Studies/" />
+    <id>/posts/Albers-Color-Studies/</id>
+    <content src="/posts/Albers-Color-Studies/" />
     <author>
       <name>amanda</name>
     </author>
@@ -128,6 +128,7 @@ Choosing colors and cutting out parts of the color-aid paper.
 Testing possible layouts before I glue the paper down
 
 
+sx
 
 Final Image
 Image showing all four parts of the assigment
@@ -141,13 +142,13 @@ Image showing all four parts of the assigment
   
   <entry>
     <title>Mixing Gray Tones</title>
-    <link href="http://localhost:4000/posts/Mixing-Gray-Tones/" rel="alternate" type="text/html" title="Mixing Gray Tones" />
+    <link href="/posts/Mixing-Gray-Tones/" rel="alternate" type="text/html" title="Mixing Gray Tones" />
     <published>2023-01-19T09:14:56-05:00</published>
   
     <updated>2023-01-19T09:14:56-05:00</updated>
   
-    <id>http://localhost:4000/posts/Mixing-Gray-Tones/</id>
-    <content src="http://localhost:4000/posts/Mixing-Gray-Tones/" />
+    <id>/posts/Mixing-Gray-Tones/</id>
+    <content src="/posts/Mixing-Gray-Tones/" />
     <author>
       <name>amanda</name>
     </author>
@@ -183,13 +184,13 @@ Mixing the three different shades of gray turned out to be easier than I expecte
   
   <entry>
     <title>Paint Color Chart</title>
-    <link href="http://localhost:4000/posts/Paint-Color-Chart/" rel="alternate" type="text/html" title="Paint Color Chart" />
+    <link href="/posts/Paint-Color-Chart/" rel="alternate" type="text/html" title="Paint Color Chart" />
     <published>2023-01-16T09:43:56-05:00</published>
   
     <updated>2023-01-16T09:43:56-05:00</updated>
   
-    <id>http://localhost:4000/posts/Paint-Color-Chart/</id>
-    <content src="http://localhost:4000/posts/Paint-Color-Chart/" />
+    <id>/posts/Paint-Color-Chart/</id>
+    <content src="/posts/Paint-Color-Chart/" />
     <author>
       <name>amanda</name>
     </author>
